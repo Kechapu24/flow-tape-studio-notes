@@ -1,2 +1,16 @@
-# flow-tape-studio-notes
-A creative log and version management system for AI music production. Inspired by Notion and GitHub, designed to track the evolution of songs, prompts, ideas, and creative decisions.
+# FLOW TAPE Studio Notes
+
+AI音楽制作における創作ログ管理システム
+
+FLOW TAPE Studio Notesは、
+完成した作品だけでなく、
+
+・何を考えたか
+・どのようなイメージを持ったか
+・どのように改善したか
+・どのような作品が生まれたか
+
+という創作の進化を保存するためのシステムです。
+
+Notionの創作ノート機能と、
+GitHubのバージョン管理思想を取り入れています。
